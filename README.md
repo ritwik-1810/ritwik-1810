@@ -6,12 +6,12 @@
 - 💡 Passionate about building scalable web apps and solving algorithmic problems.  
 - 🔭 Currently working on: CODECRAFT--A AI POWERED CODING PLATFORM (JUST LIKE LEETCODE/GFG) 
 - 🌱 Learning: Web Development, System Design & DevOps 
-- 💬 Ask me about: MERN, JavaScript, DSA (C/C++/JS/JAVA)
+- 💬 Ask me about: SPRINGBOOT, JavaScript, DSA (C/C++/JS/JAVA)
 
 🛠️ Skills
 - **Languages**: C/C++, Java, JavaScript  
 - **Frontend**: React, HTML, CSS, TailwindCSS  
-- **Backend**: Node.js, Express.js  
+- **Backend**: SPRINGBOOT  
 - **Database**: MongoDB, MySQL  
 - **Tools**: Git, Docker, Postman ,VS CODE
 
